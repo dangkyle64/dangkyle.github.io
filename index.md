@@ -1,5 +1,3 @@
-# Testing Jekyll
-
 ## John Doe
 
 Welcome to my notes.
@@ -13,4 +11,5 @@ Welcome to my notes.
 - Context
 
 [Project Notes](/projects/read-book-api.md)
+
 [Express Notes](/notes/express.md)
