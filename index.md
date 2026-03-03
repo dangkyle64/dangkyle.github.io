@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## John Doe
 
 Welcome to my notes.
