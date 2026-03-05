@@ -1,8 +1,7 @@
 ---
 layout: default
+title: About
 ---
-
-## John Doe
 
 Welcome to my notes.
 
